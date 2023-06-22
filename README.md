@@ -1,9 +1,10 @@
 ![Banner](./bannner-phone-book.jpg)
 
-Phone book app - is a simple web application, that allows you to store all your contacts in one place.
+crypto-currency-tracker
+ - is a simple web application, that fetch data from open API https://www.livecoinwatch.com/ and output it by MUI Table.
 
 ## Tecnologies
 
-This app was developed on Create react app, Redux toolkit, RTK query and Material UI for styles. 
-Backend - Node Js. 
+This app was developed on Create react app, React Hooks and Material UI for styles. 
+
 
